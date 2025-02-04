@@ -3,6 +3,10 @@ This is Discord multi-tool that can grab IP,Brute_Force Nitro Code,Webhook Spam,
 
 # DCTOOL - Discord Utility Tool
 
+![Screenshot 2025-02-04 144014](https://github.com/user-attachments/assets/287deb59-9ebb-4aaf-8ca3-8d56604e3e65)
+
+
+
 ## Overview
 DCTOOL is a versatile console application designed to provide various utilities for Discord users. It offers a range of features that can assist in managing and interacting with Discord more effectively. Whether you're looking to send messages via webhooks, generate and check Nitro codes, or manage direct messages, DCTOOL has you covered.
 
